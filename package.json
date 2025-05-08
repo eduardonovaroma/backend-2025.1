@@ -1,0 +1,19 @@
+{
+  "name": "backend-2025.1",
+  "version": "1.0.0",
+  "description": "Projeto de Arquitetura - Backend",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eduardo Tavares",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
