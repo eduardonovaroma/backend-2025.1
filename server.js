@@ -19,4 +19,5 @@ const PORT = 3000;
 
 app.listen(PORT, function() {
     console.log(`Servidor web iniciado: http://localhost:${PORT}/`);
+    console.log('Pressione Ctrl+C para encerrar o servidor.');
 });
